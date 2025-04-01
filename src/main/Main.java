@@ -34,6 +34,10 @@ public class Main {
 
         System.out.println(valorInverso);
 
+        int potencia = Producto.potencia(2, 3);
+
+        System.out.println(potencia);
+
 
     }
 }
